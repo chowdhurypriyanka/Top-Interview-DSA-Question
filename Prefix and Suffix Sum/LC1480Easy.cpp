@@ -11,4 +11,5 @@ public:
         return nums;
     }
 };
+// Its like the prefix Sum
 
